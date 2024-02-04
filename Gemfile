@@ -10,6 +10,7 @@ end
 
 gem 'bootstrap-sass', '~> 3.3.6'
 gem 'jquery-rails'
+gem 'devise', '~> 4.3'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
