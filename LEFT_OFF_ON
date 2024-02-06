@@ -1,0 +1,9 @@
+Link:
+https://www.freecodecamp.org/news/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f/#:~:text=Rendering%20the%20posts,inside%20the%20views.
+
+Spot:
+
+Rendering the posts
+
+To render the posts, we’ll need a posts directory inside the views.
+[...]
