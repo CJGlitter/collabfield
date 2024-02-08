@@ -14,6 +14,7 @@ gem 'jquery-rails'
 gem 'devise', '~> 4.3'
 gem 'bootstrap_form', '~> 2.7'
 gem 'faker'
+gem 'will_paginate', '~> 3.1.0'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
